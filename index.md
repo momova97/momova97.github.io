@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+👋 Hi, I’m Mohammad
 
-Maybe say a some things about yourself.
+👀 I’m interested in Machine learning,and AI
 
-Or maybe what you plan to blog about.
+🌱 I’m currently learning,network and web development and cloud architcutre
+
+💞️ I’m looking to collaborate on intersting and challenging projects.
+
+📃 This is My personal blog
