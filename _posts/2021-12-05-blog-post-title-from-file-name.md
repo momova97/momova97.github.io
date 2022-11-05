@@ -1,4 +1,4 @@
-## some problems are better to be left unsolved
+## Some problems are better to be left unsolved
 
 "If I had an hour to solve an issue, I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions," Einstein says. This remark elucidates how geniuses such as Einstein solve challenges.
 
