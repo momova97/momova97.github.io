@@ -8,4 +8,4 @@ following comments will automatically be deleted
 email address and be referred to by a current inspector
 4. inspectors can't rate an article that they wrote
 
-![relationship chart]([http://url/to/img.png](https://github.com/momova97/momova97.github.io/blob/main/photos/Screenshot%202022-11-22%206.42.35%20PM.png))
+![relationship chart]([http://url/to/img.png](https://github.com/momova97/momova97.github.io/blob/main/photos/Screenshot%202022-11-22%206.42.35%20PM.png?raw=true))
