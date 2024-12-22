@@ -1,5 +1,3 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/momova97/momova97.github.io
 
 go 1.17
-
-require github.com/momova97/hugo-theme-stack // indirect
