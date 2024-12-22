@@ -109,7 +109,7 @@ serverURL = ""
 lang = ""
 visitor = ""
 avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
+emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo/"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
 
@@ -125,7 +125,7 @@ lang = ""
 [comments.cactus]
 defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
 serverName = "cactus.chat"
-siteName = ""
+siteName = "mohammad.cc"
 
 [comments.giscus]
 repo = ""
