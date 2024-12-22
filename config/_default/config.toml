@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = ""
+baseurl = "https://www.mohammad.cc"
 languageCode = "en-us"
 title = "My Personal Blog"
 
