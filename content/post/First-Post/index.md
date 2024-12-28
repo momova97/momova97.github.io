@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: First Post
 description: Welcome to My Blog
-slug: hello-world
+slug: First-Post
 date: 2024-12-28 00:00:00+0000
 image: cover.jpg
 categories:
